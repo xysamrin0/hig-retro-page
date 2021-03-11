@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hig-retro-page/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/hig-retro-page/static/js/main.9ee1d563.chunk.js",
+    "main.js.map": "/hig-retro-page/static/js/main.9ee1d563.chunk.js.map",
+    "runtime-main.js": "/hig-retro-page/static/js/runtime-main.771bed47.js",
+    "runtime-main.js.map": "/hig-retro-page/static/js/runtime-main.771bed47.js.map",
+    "static/js/2.6178405d.chunk.js": "/hig-retro-page/static/js/2.6178405d.chunk.js",
+    "static/js/2.6178405d.chunk.js.map": "/hig-retro-page/static/js/2.6178405d.chunk.js.map",
+    "static/js/3.e2c172a0.chunk.js": "/hig-retro-page/static/js/3.e2c172a0.chunk.js",
+    "static/js/3.e2c172a0.chunk.js.map": "/hig-retro-page/static/js/3.e2c172a0.chunk.js.map",
+    "index.html": "/hig-retro-page/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/hig-retro-page/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.6178405d.chunk.js.LICENSE.txt": "/hig-retro-page/static/js/2.6178405d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hig-retro-page/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.771bed47.js",
+    "static/js/2.6178405d.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.9ee1d563.chunk.js"
+  ]
+}
